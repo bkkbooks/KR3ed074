@@ -1,0 +1,201 @@
+canonical_identifier: bkk:krp/KR3ed074/v1
+canonical_location: https://kanripo.org/bkk/KR3ed074/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 醫宗金鑑·刪補名醫方論
+  identifiers:
+    krp: KR3ed074
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed074.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3ed074_001.yaml, hash: 'sha256:73a9eb9c2145b2a93fefa8e2325803a9ca26846bac4833401f55165172a86500'}
+  - {seq: 2, filename: KR3ed074_002.yaml, hash: 'sha256:1ddb706412f5042888fdc17c3470ebbf9ffe002d9ba87935dcc36a87038daa74'}
+  - {seq: 3, filename: KR3ed074_003.yaml, hash: 'sha256:1defd1880c74518e7f6c51bb57a1d88534a6756aa279a24f52deacbcb1444371'}
+  - {seq: 4, filename: KR3ed074_004.yaml, hash: 'sha256:8ae3ae4251b39deb9f2ef6d93b7ac10aa66b6ff3d68616821739df2582f94129'}
+  - {seq: 5, filename: KR3ed074_005.yaml, hash: 'sha256:63065f0f466ccaf2cb9c2e175fb24da099047e9a6f16d41ab7f4efc596e6a11a'}
+  - {seq: 6, filename: KR3ed074_006.yaml, hash: 'sha256:823cbef728aed0f60940984b45515379c125803a91cbe823500d81ce82aa628c'}
+  - {seq: 7, filename: KR3ed074_007.yaml, hash: 'sha256:fd5b2754b16e04043d6b4727f4dfd02171acc4a5c501c513304498d4ee42d378'}
+  - {seq: 8, filename: KR3ed074_008.yaml, hash: 'sha256:178dc83adadddcaa9854782c2fff23c5c070fe042b3710386f422fc0181a88fe'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ed074_001.markers.yaml, hash: 'sha256:01cd207c5605ab893ac26ee028c9ee07921b9268df043f6861d8cff9c93b4ba2'}
+  - {seq: 2, role: markers, filename: assets/KR3ed074_002.markers.yaml, hash: 'sha256:c2d2462d304fa494d928c1806c6885a411400a09daba0cfcefad9ba3a8fff044'}
+  - {seq: 3, role: markers, filename: assets/KR3ed074_003.markers.yaml, hash: 'sha256:73333e970d74b27fa996930a57dd7c64a6c6758cce97b255fd9c93c368e8b1f6'}
+  - {seq: 4, role: markers, filename: assets/KR3ed074_004.markers.yaml, hash: 'sha256:cdc494f7e2ab4e7b84b5ed92276b534e49a9e9be70047e089a1eb470649676a2'}
+  - {seq: 5, role: markers, filename: assets/KR3ed074_005.markers.yaml, hash: 'sha256:b369bc19ad1fd5f7553aa427c02770ef5404de2ef46307e34c2ab8d85e0c5776'}
+  - {seq: 6, role: markers, filename: assets/KR3ed074_006.markers.yaml, hash: 'sha256:017ac70e099c7d9cac48840848e21b473253e99d47b8ea9ca3720fec45badfbb'}
+  - {seq: 7, role: markers, filename: assets/KR3ed074_007.markers.yaml, hash: 'sha256:db100d5e021cbfb84550c764816848bfecf443664daf5c29322793db39883ed9'}
+  - {seq: 8, role: markers, filename: assets/KR3ed074_008.markers.yaml, hash: 'sha256:7f245341bb0fb3ff1f8aef7e788ff9472b868638dc05be9b8cff828b938c3361'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ed074_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 7636
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed074_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 7636
+  label: 刪補名醫方論一
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed074_jc_002-d3.h1s1
+    span:
+    - body
+    - 0
+    - 9061
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ed074_jc_002-d3d2
+    span:
+    - body
+    - 2
+    - 9061
+  label: 刪補名醫方論二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed074_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 7215
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ed074_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 7215
+  label: 刪補名醫方論三
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed074_jc_004-d5.h1s1
+    span:
+    - body
+    - 0
+    - 7165
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ed074_jc_004-d5d2
+    span:
+    - body
+    - 2
+    - 7165
+  label: 刪補名醫方論四
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ed074_jc_005-d6.h1s1
+    span:
+    - body
+    - 0
+    - 8032
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ed074_jc_005-d6d2
+    span:
+    - body
+    - 2
+    - 8032
+  label: 刪補名醫方論五
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ed074_jc_006-d7.h1s1
+    span:
+    - body
+    - 0
+    - 9816
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ed074_jc_006-d7d2
+    span:
+    - body
+    - 2
+    - 9816
+  label: 刪補名醫方論六
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed074_jc_007-d8.h1s1
+    span:
+    - body
+    - 0
+    - 6354
+  label: 卷七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3ed074_jc_007-d8d2
+    span:
+    - body
+    - 2
+    - 6354
+  label: 刪補名醫方論七
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ed074_jc_008-d9.h1s1
+    span:
+    - body
+    - 0
+    - 6755
+  label: 卷八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3ed074_jc_008-d9d2
+    span:
+    - body
+    - 2
+    - 6755
+  label: 刪補名醫方論八
+  type: section
+  level: 2
+hash: sha256:cb317d79bd118cc7e2a16e5a44d5ce59910064153a26bf2da1415eecd99a4f28
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
